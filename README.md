@@ -39,7 +39,7 @@ Highridge Construction Company-payment-system/
 ## *Python Version*
 bash
 ### Clone repository
-git clone https://github.com/MichaelDoba/Python-and-R-by-MD/Highridge-Construction-Company-Payment-System.git
+git clone https://github.com/MichaelDoba/Python-and-R-by-MD/
 
 ### No dependencies required
 python payment_system.py
